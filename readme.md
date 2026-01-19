@@ -9,7 +9,10 @@
 * Za vsako vajo ustvari ustrezno mapo (npr. `/vaja-01/`) in v njej odda zahtevano vsebino.
 * Oddaja se šteje kot veljavna, ko je vsebina **commitana in potisnjena (push)** v repozitorij do roka oddaje.
 * Priporočena je smiselna struktura commitov in jasna commit sporočila.
+* Po vzpostavitvi repozitorija mora študent **dodati izvajalca predmeta kot collaboratorja** (GitHub/GitLab).
 
+  * GitHub uporabniško ime: **TheRokUrbanc**
+  * Namen: vpogled v sprotno delo, preverjanje vaj in projektnega napredka.
 
 
 
