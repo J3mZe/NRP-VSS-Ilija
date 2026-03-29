@@ -1,0 +1,15 @@
+node_modules/
+frontend/node_modules/
+.env
+frontend/.env
+database.sqlite
+dist/
+frontend/dist/
+.vscode/
+backend/Html/
+images/
+backend/testDB.js
+backend/test_express.js
+backend/test_update.js
+backend/check_lang.js
+backend/scripts/alterUsersTable.js
