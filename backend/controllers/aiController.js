@@ -3,7 +3,7 @@ const db = require('../models');
 
 // Initialize OpenAI client pointing to DeepSeek base URL using the requested R1 key
 const openai = new OpenAI({
-    apiKey: 'sk-80e23a714c714ea286ef6c21fc6f9bc9',
+    apiKey: '',
     baseURL: 'https://api.deepseek.com/v1'
 });
 
